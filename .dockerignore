@@ -1,0 +1,8 @@
+.git
+.gitignore
+README.md
+start.bat
+Dockerfile
+.dockerignore
+__pycache__
+*.pyc
